@@ -22,7 +22,7 @@ Your boss give you a clean dataset and ask you to analyze and build a dashboard 
 - Consumer segment contributes 53% of total profit, therefore 2016 marketing campaigns should prioritize this segment.
 - Chairs and Bookcases have the highest profit. Top 10 products show many negative MoM changes. This suggests avoiding aggressive discounting to improve profit, instead, focus on cross-selling and bundling strategies and maintain pricing for high-margin products.
 
-## Stratgies
+## Strategies
 - Priotize high profit products like Chairs and Bookcases. Implement cross-selling strategies to controll discounts and secure gross margin.
 - Launch campaigns focusing on Consumer Segment, along with emphasizing product quality, avoiding agressive discounts on high profit products.
 - Reducing discount campaigns during high-demand periods such as Fall and Winter, to maximize profit and gross margin.
